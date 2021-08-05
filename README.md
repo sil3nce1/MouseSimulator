@@ -4,7 +4,7 @@
 
 - Mouse Simulator desenvolvido em Python.
 - Server envia as coordenadas do mouse (Point), evento de clique e o client simula.
-- Executar server.py [ip] [porta] no cmd para iniciar um servidor.
+- Executar server.py [ip] [porta] para iniciar um servidor.
 - Executar client.py [ip] [porta] para se conectar a um servidor.
 
 - OBS: Para conexões não locais é necessário possuir port fowarding ou poderá usar algum tunelamento como Ngrok.
