@@ -17,5 +17,5 @@
 - Run server.py [ip] [port] to start a server.
 - Run client.py [ip] [port] to connect to a running server.
 
-- OBS: For remote connections you'll need to have port fowarding or you can use a tunelling software like Ngrok.
+- PS: For remote connections you'll need to have port fowarding or you can use a tunelling software like Ngrok.
 - This application does not calculate the right coordinate between two different screen resolution.
