@@ -8,7 +8,7 @@
 - Executar client.py [ip] [porta] para se conectar a um servidor.
 
 - OBS: Para conexões não locais é necessário possuir port fowarding ou poderá usar algum tunelamento como Ngrok.
-- This application does not calculate the right coordinate between two different screen resolution.
+- Esta aplicação não calcula as coordenadas corretas entre duas resoluções de tela diferentes.
 
 
 [ENG]
